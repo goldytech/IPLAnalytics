@@ -25,5 +25,6 @@
   "publishExclude": [
     "**.user",
     "**.vspscc"
-  ]
+  ],
+  "userSecretsId": "aspnet5-IPLAnalytics.Web-20160213071213"
 }
